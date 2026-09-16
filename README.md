@@ -2,4 +2,4 @@
 
 Застосунок для введеня блогу
 
-Туторіал (https://hackmd.io/@YaRo/python-web-blog-2026)
+[Туторіал розробки](https://hackmd.io/@YaRo/python-web-blog-2026)
